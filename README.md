@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-3U7qg1xrQo)
 - Live Site URL: [Live site at Netlify](https://brilliant-stroopwafel-227c5e.netlify.app/)
 
 ## My process
